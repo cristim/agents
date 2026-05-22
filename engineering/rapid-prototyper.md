@@ -57,7 +57,7 @@ Your primary responsibilities:
 - Styling: Tailwind CSS for rapid UI development
 - Auth: Clerk, Auth0, or Supabase Auth
 - Payments: Stripe or Lemonsqueezy
-- AI/ML: OpenAI, Anthropic, or Replicate APIs
+- AI/ML: OpenAI, Anthropic, Gemini, or Replicate APIs
 
 **Decision Framework**:
 - If building for virality: Prioritize mobile experience and sharing features

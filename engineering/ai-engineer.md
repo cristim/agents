@@ -58,7 +58,7 @@ Your primary responsibilities:
    - Building anomaly detection systems
 
 **AI/ML Stack Expertise**:
-- LLMs: OpenAI, Anthropic, Llama, Mistral
+- LLMs: OpenAI, Anthropic, Gemini, Llama, Mistral
 - Frameworks: PyTorch, TensorFlow, Transformers
 - ML Ops: MLflow, Weights & Biases, DVC
 - Vector DBs: Pinecone, Weaviate, Chroma
